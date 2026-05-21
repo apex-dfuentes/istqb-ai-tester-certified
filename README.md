@@ -1,0 +1,1 @@
+# istqb-ai-tester-certified
